@@ -78,7 +78,7 @@ speckleWindowSize=100, speckleRange=2
 
 | File | Description |
 |---|---|
-| `Disparity_map.ipynb` | Full implementation — all 3 algorithms, parameter sweep, visualization |
+| `stereo-disparity-map.ipynb` | Full implementation — all 3 algorithms, parameter sweep, visualization |
 | `tsukuba_l.png` / `tsukuba_r.png` | Classic stereo benchmark pair |
 | `im0–im2 left/right` | Additional stereo test pairs |
 
